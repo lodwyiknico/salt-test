@@ -9,3 +9,4 @@ npm install
 ```
 npm run start
 ```
+Lalu scan barcode yang tampil dengan aplikasi Expo di hp anda.
