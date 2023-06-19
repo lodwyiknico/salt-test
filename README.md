@@ -1,5 +1,11 @@
 # salt-test
-# untuk Pertama Kali install library
-- npm install
-# Untuk Menjalankan Gunakan
-- npm run start
+ Aplikasi menggunakan React native expo
+ 
+# Untuk Pertama install library dahulu
+```
+npm install
+```
+# Kemudian Untuk menjalankan aplikasi
+```
+npm run start
+```
