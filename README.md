@@ -1,4 +1,4 @@
-# salt-test
+# salt-test-applikasi
  Aplikasi menggunakan React native expo
  
 # Untuk Pertama install library dahulu
